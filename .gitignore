@@ -1,6 +1,5 @@
 # Arquivos CSV grandes
 *.csv
-*.csv.zip
 
 # Arquivos de sistema
 .DS_Store
