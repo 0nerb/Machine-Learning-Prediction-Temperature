@@ -217,8 +217,4 @@ Projeto de estudo pessoal
 
 ## ✍️ Autor
 
-Breno Krang
-
----
-
-**Última atualização**: Novembro de 2025
+Breno Kern
