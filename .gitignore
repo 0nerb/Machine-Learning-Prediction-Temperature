@@ -1,0 +1,35 @@
+# Arquivos CSV grandes
+*.csv
+*.csv.zip
+
+# Arquivos de sistema
+.DS_Store
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# Arquivos de dados
+*.pkl
+*.pickle
+*.joblib
+
+# Arquivos de output/resultados grandes
+*.png
+*.jpg
+*.jpeg
+calplot_*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
